@@ -25,22 +25,22 @@ function Booking() {
   // Booking Events Array
   const bookEvents = [
     {
-      title: "Group Bookings at The Vue",
+      title: "Group Bookings at Kapadoccia Abuja",
       desc: "Perfect for your corporate dining or personal celebration from 5 to 15 guests. For groups of 12 up to a maximum of 25 guests, a three course menu, four dishes per course, derived from the current a la carte menu is applicable. The three course menu is priced from N10,000 per person. A N12,000 per person minimum spend is required for all group lunch or dinner bookings.",
+      imgUrl: "/thevue/6.jpg",
+      blurUrl: "/thevue/6.jpg",
+    },
+    {
+      title: "Private Dining Experience",
+      desc: "Book an impressive private space with us this season. Whether a corporate group seeking privacy or a carefree lunch with friends and family, Kapadoccia Abuja Private Dining is one of the most prized locations for a seated dinner or evening cocktail gathering. With your own highly skilled and personable waiter for the room, we can guarantee your function will be a memorable success.",
       imgUrl: "/thevue/2.jpg",
       blurUrl: "/thevue/2.jpg",
     },
     {
-      title: "Private Dining Experience",
-      desc: "Book an impressive private space with us this season. Whether a corporate group seeking privacy or a carefree lunch with friends and family, The Vue Private Dining is one of the most prized locations for a seated dinner or evening cocktail gathering. With your own highly skilled and personable waiter for the room, we can guarantee your function will be a memorable success.",
-      imgUrl: "/thevue/3.jpg",
-      blurUrl: "/thevue/3.jpg",
-    },
-    {
       title: "We Offer Exclusive Use",
-      desc: "From high profile celebrations to business lunches, The Vue caters for some of the country’s most exclusive private functions. With a spacious terrace that provides the most impressive backdrop for guests and has appealed to iconic brands, corporates, celebrities, media and magazines alike.",
-      imgUrl: "/thevue/5.jpg",
-      blurUrl: "/thevue/5.jpg",
+      desc: "From high profile celebrations to business lunches, Kapadoccia Abuja caters for some of the country’s most exclusive private functions. With a spacious terrace that provides the most impressive backdrop for guests and has appealed to iconic brands, corporates, celebrities, media and magazines alike.",
+      imgUrl: "/thevue/14.jpg",
+      blurUrl: "/thevue/14.jpg",
     },
   ];
 

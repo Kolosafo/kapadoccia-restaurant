@@ -235,7 +235,7 @@ function GroupDining() {
             <div className={styles.imgThumbnail}>
               <Image
                 src="/gallery-group-8.jpg"
-                alt="Group Dining at The Vue"
+                alt="Group Dining at Kapadoccia Abuja"
                 layout="fill"
                 objectFit="cover"
                 className={styles.item}

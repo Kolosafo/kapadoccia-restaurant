@@ -40,28 +40,28 @@ function Story() {
   return (
     <section className={styles.container} ref={(e) => (section = e)}>
       <h2 className={styles.mainHeader}>
-        A place where you’ll find well-cooked Pan Asian food.
+        A place where you’ll find well-cooked food in an imaginary envirnoment.
       </h2>
       <hr className={styles.divider} />
       <div className={styles.medContainer}>
         <Image
-          src="/thevue/10.jpg"
+          src="/thevue/13.jpg"
           width={600}
           height={400}
           objectFit="contain"
           alt="Our Story Image"
           priority
           placeholder="blur"
-          blurDataURL="/thevue/10.jpg"
+          blurDataURL="/thevue/13.jpg"
           className={styles.storyImg}
         />
 
         <div className={styles.textContainer}>
           <h3>What makes us a delectable choice?</h3>
           <p>
-            The Vue has built its reputation over the past 10 years. It is one
-            of the city’s most iconic dining destinations. Consistently
-            delivering excellent Pan Asian food, an innovative wine list and
+            Kapadoccia Abuja has built its reputation over the past 10 years. It
+            is one of the city’s most iconic dining destinations. Consistently
+            delivering excellent food in a beautiful rainforest envirnoment and
             faultless services. Join us for lunch, dinner and anytime in
             between.
           </p>

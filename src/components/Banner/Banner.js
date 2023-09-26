@@ -36,7 +36,7 @@ function Banner() {
       <h2>Come and Celebrate With Us!</h2>
       <p>
         For a stunning event tailored to your every need, look no further than
-        The The Vue!
+        The Kapadoccia Abuja!
       </p>
       <Link href="/contact" passHref>
         <button className={styles.btnTan}>Book a Reservation</button>

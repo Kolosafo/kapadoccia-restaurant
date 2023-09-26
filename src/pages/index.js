@@ -13,10 +13,10 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Welcome to The Vue</title>
+        <title>Welcome to Kapadoccia Abuja</title>
         <meta
           name="description"
-          content="Top Fine Dining Pan Asian Restaurant in the Federal Capital"
+          content="Nigeria's First and Only Cave Restaurant"
         />
         <link rel="icon" href="/felicita-logo.ico" />
       </Head>

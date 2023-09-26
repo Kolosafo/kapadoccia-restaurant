@@ -11,7 +11,7 @@ function Navigation() {
     >
       <Container fluid>
         <Navbar.Brand href="/" className={styles.brand}>
-          ::The Vue
+          ::Kapadoccia Abuja
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="navbarScroll" />
         <Navbar.Collapse id="navbarScroll" className="justify-content-end">

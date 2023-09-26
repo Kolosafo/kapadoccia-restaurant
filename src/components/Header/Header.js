@@ -34,9 +34,11 @@ function Header() {
 
       {/* Hero text content */}
       <div className={styles.textContainer} ref={(e) => (content = e)}>
-        <h1 className={styles.title}>It’s time to have a taste of The Vue</h1>
+        <h1 className={styles.title}>
+          It’s time to have a taste of Kapadoccia
+        </h1>
         <p className={styles.subtitle}>
-          Top Fine Dining Pan Asian Restaurant in the Federal Capital
+          Nigeria&apos;s First and Only Cave Restaurant
         </p>
         <Link href="/contact" passHref>
           <button className={styles.btnTan} ref={(e) => (anim = e)}>

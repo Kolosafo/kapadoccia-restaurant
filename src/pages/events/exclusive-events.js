@@ -81,33 +81,33 @@ function ExclusiveEvents() {
           <h2>Exclusive Events</h2>
           <hr className={styles.divider} />
           <div>
-            <h3>Why Choose The Vue?</h3>
+            <h3>Why Choose Kapadoccia Abuja?</h3>
             <p>
-              The Vue has developed a network of trusted professionals at the
-              top of their respective fields who can assist you in all areas of
-              event management from AV requirements to complete event concepts
-              and decoration. This assistance provides a one-stop shop approach
-              to functions usually only found at larger venues.
+              Kapadoccia Abuja has developed a network of trusted professionals
+              at the top of their respective fields who can assist you in all
+              areas of event management from AV requirements to complete event
+              concepts and decoration. This assistance provides a one-stop shop
+              approach to functions usually only found at larger venues.
             </p>
             <p>
-              The Vue is able to cater for up to 40 people sit-down and 70
-              people stand-up. There is a balcony for pre-lunch or dinner drinks
-              (weather permitting) and the priceless views of the city that can
-              be absorbed by each and every guest.
+              Kapadoccia Abuja is able to cater for up to 40 people sit-down and
+              70 people stand-up. There is a balcony for pre-lunch or dinner
+              drinks (weather permitting) and the priceless views of the city
+              that can be absorbed by each and every guest.
             </p>
             <p>
-              The minimum food and beverage spend to book The Vue is calculated
-              on the day, time and month of your event. To give you an
-              indication of pricing, it will be between N45,000 - N75,000 + 10%
-              service charge on the total account.
+              The minimum food and beverage spend to book Kapadoccia Abuja is
+              calculated on the day, time and month of your event. To give you
+              an indication of pricing, it will be between N45,000 - N75,000 +
+              10% service charge on the total account.
             </p>
             <p>The minimum spend includes:</p>
             <p>
               <span>•</span>
-              Exclusive use of The Vue; food and beverages on consumption, linen
-              for all tables (this is not included in the min spend), labour for
-              the duration of the function, The Vue orange lamps as centerpieces
-              (optional)
+              Exclusive use of Kapadoccia Abuja; food and beverages on
+              consumption, linen for all tables (this is not included in the min
+              spend), labour for the duration of the function, Kapadoccia Abuja
+              orange lamps as centerpieces (optional)
             </p>
             <p>Additional Expenses not included in the minimum spend:</p>
             <p>
@@ -167,7 +167,7 @@ function ExclusiveEvents() {
             <div className={styles.imgThumbnail}>
               <Image
                 src="/thevue/6.jpg"
-                alt="Delicious Food at The Vue"
+                alt="Delicious Food at Kapadoccia Abuja"
                 layout="fill"
                 objectFit="cover"
                 className={styles.item}

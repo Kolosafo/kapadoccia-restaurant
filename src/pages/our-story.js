@@ -42,7 +42,7 @@ export default function OurStory() {
         <div className={styles.pageText}>
           <h2>Our Story</h2>
           <hr className={styles.divider} />
-          <p>Top Fine Dining Pan Asian Restaurant in the Federal Capital</p>
+          <p>Nigeria&apos;s First and Only Cave Restaurant</p>
           <p>
             You’ll find well-cooked, honest, uncomplicated but imaginative food,
             with a huge emphasis on locally sourced produce. We love our artisan
@@ -50,7 +50,7 @@ export default function OurStory() {
             work with.
           </p>
           <p>
-            What else will you find at The Vue restaurant? Unfussy,
+            What else will you find at Kapadoccia Abuja restaurant? Unfussy,
             knowledgeable service from staff who actually love food and love
             looking after people. Modern, informal interiors and atmosphere,
             where we want you to be able to kick back, relax over a nice glass

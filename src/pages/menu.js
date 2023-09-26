@@ -46,44 +46,49 @@ function Menu() {
           {/* Soup & Salad Container */}
           <div className={styles.topLContainer}>
             <div className={styles.containerTitle}>
-              <h4>
-                Fried Rice <span>(Chinese)</span>
-              </h4>
-              <p>A delicious and traditional side dish in Chinese cuisine</p>
+              <h4>The Jungle Pie</h4>
+              <p>
+                Five specialty meat pies with a delicious filling of sweet
+                potatoes
+              </p>
             </div>
             <div>
-              <h5>Schezwan Fried Rice</h5>
-              <p>A spicy fried rice with deep chilli-garlic flavor</p>
+              <h5>Spiked Tuna Lumpias</h5>
+              <p>Crispy tuna rolls served with green chilli sauce</p>
               <br />
 
               <h5>Hakka Noodles</h5>
               <p>A Cantonese style noodles preparation</p>
               <br />
 
-              <h5>Schezwan Hakka Noodles</h5>
-              <p>A spicy noodles preparation with Schezwan sauce</p>
+              <h5>Kebab Options</h5>
+              <p>
+                Tender skewerred meats. Chicken or beef{" "}
+                <span>(All options served with Pita bread)</span>
+              </p>
               <br />
 
               <h5>
-                Yaki Udon <span>(Japanese)</span>
+                Hummus <span>(Vegeterian/Vegan Friendly)</span>
               </h5>
               <p>
-                Japanese Udon noodles stir fried with vegetables and your choice
-                of protein
+                Hummus with toasted Pita Bread, Crudites and Grilled Tomatoes
               </p>
               <br />
 
               <h5>
                 {" "}
-                Jasmine Rice <span>(Thai)</span>
+                Halloumi Sandwich <span>(Vegeterian/Vegan Friendly)</span>
               </h5>
-              <p>Steamed Jasmine Rice</p>
+              <p>
+                Grilled Halloumi served with a rocket salad and french mustard
+              </p>
               <br />
 
-              <h5>Pad Thai Noodle</h5>
+              <h5>Lahmacun</h5>
               <p>
-                Thai noodles stir fry made with flat rice noodles and sweet
-                savory sour sauce
+                Minced meat. Chopped tomatoes, onions and cilantro on soft Naan
+                bread
               </p>
               <br />
             </div>
@@ -92,32 +97,42 @@ function Menu() {
           {/* Pasta Container */}
           <div className={styles.topRContainer}>
             <div className={styles.containerTitle}>
-              <h4>Miso Soup (Japanese)</h4>
-              <p>Traditional Japanese soybean soup</p>
+              <h5>
+                Imam Biyaldi <span>(Vegeterian/Vegan Friendly)</span>
+              </h5>
+
+              <p>Chargrilled egg plants with cream cheese and tomato relish</p>
             </div>
             <div>
-              <h5>Chicken Gyoza Soup</h5>
-              <p>Steaming hot Japanese soup with tasty chicken dumplings</p>
+              <h5>
+                Yakitori Chicken & Garlic Emulsion, Soy and Orange Dressing
+              </h5>
+              <p>Skewers of Tender Chicken and Grilled Pepper</p>
               <br />
 
               <h5>
-                Hot and Sour Soup <span>(Chinese)</span>
+                Feta Salad <span>(Vegeterian/Vegan Friendly)</span>
               </h5>
-              <p>A savory, spicy and tangy Chinese soup</p>
+              <p>
+                Marinated feta cheese served with olives, tomatoes, cucumbers,
+                pickled onions and dill
+              </p>
               <br />
 
-              <h5>Sweet Corn Soup</h5>
-              <p>Creamy thick soup with sweet corn</p>
+              <h5>Crispy Chicken Salad</h5>
+              <p>
+                Creamy chicken, cherry tomatoes, avocados, cucumber, lettuse
+              </p>
               <br />
 
               <h5>
-                Tom Yum Soup <span>(Thai)</span>
+                Piyaz <span>(Vegeterian/Vegan Friendly)</span>
               </h5>
-              <p>Thai hot & sour soup</p>
+              <p>Beans, onions, tomatoes, parsley, peppers</p>
               <br />
 
-              <h5>Tom Kha Soup</h5>
-              <p>Rich, creamy and tasty thai coconut soup</p>
+              <h5>Bisque</h5>
+              <p>Creamy soup served with buttered prawns or fish</p>
               <br />
 
               {/* <h5>Riverine Soup (Full)</h5>
@@ -194,7 +209,7 @@ function Menu() {
               <h5>Lagos Beet Vibe</h5>
               <p>Beetroot, Yoghurt red apple, banana, Pineapple Smoothie</p>
               <br />
-              <h5>The Vue Special</h5>
+              <h5>Kapadoccia Abuja Special</h5>
               <p>Spinach Banana, Green Apple, Celery Smoothie</p>
               <br />
             </div>

@@ -4,8 +4,8 @@ function Footer() {
   return (
     <footer className={styles.footerContainer}>
       <div className={styles.tag}>
-        <h5>::The Vue</h5>
-        <p>It’s time to have a taste of The Vue!</p>
+        <h5>::Kapadoccia Abuja</h5>
+        <p>It’s time to have a taste of Kapadoccia Abuja!</p>
       </div>
 
       <div className={styles.sections}>
@@ -28,8 +28,8 @@ function Footer() {
         <div>
           <p>Locations</p>
           <ul>
-            <li>Novare Mall</li>
-            <li>Wuse</li>
+            <li>2 Kinda Street</li>
+            <li>Wuse 2</li>
             <li>Abuja</li>
           </ul>
         </div>

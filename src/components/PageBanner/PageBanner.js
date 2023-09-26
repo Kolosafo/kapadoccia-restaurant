@@ -22,7 +22,7 @@ function PageBanner() {
   return (
     <div className={styles.bannerContainer}>
       <h1 ref={(e) => (content = e)}>
-        The Vue, your happiness is our happiness
+        Kapadoccia Abuja, your happiness is our happiness
       </h1>
     </div>
   );

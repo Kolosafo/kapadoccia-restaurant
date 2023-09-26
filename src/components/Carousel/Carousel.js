@@ -18,22 +18,22 @@ function Carousel() {
       name: "Adekunle Micheal",
       quote:
         "“The attention to detail of the staff made the whole experience very special.”",
-      imgUrl: "/thevue/12.jpg",
-      blurUrl: "/thevue/12.jpg",
+      imgUrl: "/thevue/1.jpg",
+      blurUrl: "/thevue/1.jpg",
     },
     {
       name: "Sarah Bash",
       quote:
         "“Thank you for dinner last night. It was amazing!! I have to say it’s the best meal I have had in quite some time.”",
-      imgUrl: "/thevue/14.jpg",
-      blurUrl: "/thevue/14.jpg",
+      imgUrl: "/thevue/7.jpg",
+      blurUrl: "/thevue/7.jpg",
     },
     {
       name: "Hadizah Sulieman",
       quote:
-        "“We love your incredible cooking. Thank you The Vue for helping us celebrate Dad’s 90th birthday last night.”",
-      imgUrl: "/thevue/1.jpg",
-      blurUrl: "/thevue/1.jpg",
+        "“We love your incredible cooking. Thank you Kapadoccia Abuja for helping us celebrate Mom's 60th birthday last night.”",
+      imgUrl: "/thevue/12.jpg",
+      blurUrl: "/thevue/12.jpg",
     },
   ];
 

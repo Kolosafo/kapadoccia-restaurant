@@ -1,8 +1,8 @@
-# The Vue Restaurant app
+# Kapadoccia Abuja Restaurant app
 
 ## Description
 
-The Vue Restaurant app
+Kapadoccia Abuja Restaurant app
 
 ## Demo
 

@@ -47,13 +47,13 @@ function Contact() {
       <PageBanner />
       <div className={styles.pageContent} ref={(e) => (section = e)}>
         <Image
-          src="/thevue/11.jpg"
+          src="/thevue/10.jpg"
           width={600}
           height={900}
           objectFit="contain"
           alt="Our Story Page Main Image"
           placeholder="blur"
-          blurDataURL="/thevue/11.jpg"
+          blurDataURL="/thevue/10.jpg"
           className={styles.contactImg}
         />
 

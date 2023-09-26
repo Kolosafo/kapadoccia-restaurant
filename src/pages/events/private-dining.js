@@ -230,7 +230,7 @@ function PrivateDining() {
             <div className={styles.imgThumbnail}>
               <Image
                 src="/gallery-private-8.jpg"
-                alt="Private Dining at The Vue"
+                alt="Private Dining at Kapadoccia Abuja"
                 layout="fill"
                 objectFit="cover"
                 className={styles.item}
